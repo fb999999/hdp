@@ -6,7 +6,6 @@ document.writeln("		<meta http-equiv=\'X-UA-Compatible\' content=\'IE=edge\'>");
 document.writeln("		<meta name=\'viewport\' content=\'width=device-width, initial-scale=1\'>");
 document.writeln("		<title>弹窗公告</title>");
 document.writeln("		<link rel=\'stylesheet\' href=\'https://cdn.jsdelivr.net/gh/fb999999/hdp/tc//tc.css\' />");
-document.writeln("		<script src=\'https://cdn.jsdelivr.net/gh/fb999999/hdp/tc/jquery-3.1.1.min.js\'></script>");
 document.writeln("	</head>");
 document.writeln("	<body>");
 document.writeln("		<div class=\'layer\'></div>");
